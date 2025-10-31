@@ -1,0 +1,8 @@
+# include <stdio.h>
+
+int main()
+{
+  printf("Hello teach. My name is Shaddiah and I'm in your CMSC 313 class.");
+
+  return 0;
+}
